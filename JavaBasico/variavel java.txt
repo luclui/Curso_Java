@@ -1,0 +1,11 @@
+ variavel java
+
+        var: string
+        boolean: true ou false
+        int: inteiro
+            byte < short < int < long : quao mais prox do numero certo menos bits destinados(melhor otimizaxção)
+        char: caracteres separados EX: "X"
+        double: numeros com virgula (double é mais preciso)
+        float: numeros com virgula sem mt precisão (usa F no final EX: "450.45F")
+
+    var nome = "lucas"; 
